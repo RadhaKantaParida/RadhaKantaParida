@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm RadhaKanta Parida, a passionate Web developmen
 
 ## 🔧 Technologies & Tools
 
-- Programming Languages: c , c++ , java , python , javascript 💛 , PHP , mysql , mongodb
+- Programming Languages: c , c++ , java 💙 , python , javascript  , PHP , mysql , mongodb
 - Frameworks & Libraries: react , express , mongoose, node , flask , Django ,tailwind , redux , redixUi
 - Tools & Platforms: Vscode , postman , pycham , intelijidea , Android studio
 
